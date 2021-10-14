@@ -24,7 +24,7 @@ XI. 要虚心借鉴商业上得到证明了的成功经验。某公司因为应�
 
 XII. 相信自己的业务是最复杂的最独一无二的。以上11条也许适用于简单的业务，但一定不适用于我们公司这样复杂的系统
 
-不想打造如此杰出软件开发团队的，请访问 [https://autonomy.design/](https://autonomy.design/)
+想打造如此杰出软件开发团队的，请访问 [https://autonomy.design/](https://autonomy.design/)
 
 
 
